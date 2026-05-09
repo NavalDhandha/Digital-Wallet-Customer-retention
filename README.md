@@ -280,3 +280,20 @@ This analysis can help digital wallet teams:
 - Prioritize high-retention product categories
 - Optimize cashback and loyalty programs
 - Support data-driven customer engagement strategy
+
+---
+
+## Future Enhancements
+
+This project can be extended further by adding:
+
+- Revenue retention analysis
+- Customer lifetime value analysis
+- Churn prediction model
+- RFM segmentation
+- Product-category-level cohort analysis
+- Payment-method-level retention analysis
+- Cashback effectiveness analysis
+- Loyalty point impact analysis
+- Streamlit dashboard for interactive retention monitoring
+- Automated monthly retention reporting
